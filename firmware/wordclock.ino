@@ -111,21 +111,20 @@ const int w_is[3] =        { 0,  3,  2 };
 const int w_half[3] =      { 7,  0,  4 }; 
 const int w_to[3] =        { 7,  14, 2 };
 const int w_past[3] =      { 8,  0,  4 };
-const int w_oclock[3] =    { 11, 10, 6 };
-const int w_in[3] =        { 12, 0,  2 };
-const int w_the[3] =       { 12, 3,  3 };
-const int w_afternoon[3] = { 12, 7,  9 };
-const int w_noon[3] =      { 12, 12, 4 }; // part of "afternoon"
+const int w_oclock[3] =    { 12, 0, 6 };
+const int w_in[3] =        { 12, 8,  2 };
+const int w_the[3] =       { 12, 13,  3 };
+const int w_afternoon[3] = { 13, 7,  9 };
+const int w_noon[3] =      { 13, 12, 4 }; // part of "afternoon"
 const int w_midnight[3] =  { 4,  8,  8 };
 const int w_morning[3] =   { 13, 0,  7 };
-const int w_at[3] =        { 13, 8,  2 };
-const int w_night[3] =     { 13, 11, 5 };
+const int w_at[3] =        { 14, 8,  2 };
+const int w_night[3] =     { 14, 11, 5 };
 const int w_evening[3] =   { 14, 0,  7 };
 const int w_and[3] =       { 14, 8,  3 };
-const int w_cold[3] =      { 14, 12, 4 };
-const int w_cool[3] =      { 15, 0,  4 };
-const int w_warm[3] =      { 15, 6,  4 };
-const int w_hot[3] =       { 15, 12, 3 };
+const int w_duke[3] =      {15, 0, 4  };
+const int w_ieee[3] =      {15, 5, 4};
+const int w_time[3] =      {15, 10, 5};
 const int w_el[3] =        { 9,  2,  2 };
 
 const int w_minutes[20][3] = {
@@ -162,7 +161,7 @@ const int w_hours[12][3] = {
   { 10, 6,  5 }, // eight
   { 10, 12, 4 }, // nine
   { 11, 0,  3 }, // ten
-  { 10, 1,  4 }, // "even"
+  { 11, 10,  6 }, // eleven
   { 9,  0,  6 }  // twelve
 };
 
