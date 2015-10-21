@@ -161,7 +161,7 @@ const int w_hours[12][3] = {
   { 10, 6,  5 }, // eight
   { 10, 12, 4 }, // nine
   { 11, 0,  3 }, // ten
-  { 11, 10,  6 }, // eleven
+  { 11, 10, 6 }, // eleven
   { 9,  0,  6 }  // twelve
 };
 
@@ -377,7 +377,13 @@ void showTime() {
       addWordToFrame(w_at, frame);
       addWordToFrame(w_night, frame);
     }
-    
+  }
+  
+  // Duke IEEE Time! (2 PM to 5 PM)
+  if (14 < h && h < 17) {
+    addWordToFrame(w_duke, frame);
+    addWordToFrame(w_ieee, frame);
+    addWordToFrame(w_time, frame);
   }
   
   // Temperature
