@@ -3,7 +3,7 @@ Wordclock
 
 Instructables: http://www.instructables.com/id/wordclock/
 
-![alt tag](faceplate/inkspace/face_17_oct_path_ieee.PNG)
+![alt tag](faceplate/inkscape/face_17_oct_path_ieee.PNG)
 
 ![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/drawings/wordclock-layers.png)
 
