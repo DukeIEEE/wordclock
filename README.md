@@ -5,15 +5,15 @@ Instructables: http://www.instructables.com/id/wordclock/
 
 ![alt tag](faceplate/inkscape/face_17oct_path_ieee.PNG)
 
-![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/drawings/wordclock-layers.png)
+![alt tag](drawings/wordclock-layers.png)
 
-![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/hardware/schematic-main-board.png)
+![alt tag](hardware/schematic-main-board.png)
 
-![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/hardware/schematic-led-board.png)
+![alt tag](hardware/schematic-led-board.png)
 
-![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/hardware/pcb-main-board.png)
+![alt tag](hardware/pcb-main-board.png)
 
-![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/hardware/pcb-led-board.png)
+![alt tag](hardware/pcb-led-board.png)
 
 [![Video on YouTube](http://img.youtube.com/vi/86BiDWXyuwA/0.jpg)](http://www.youtube.com/watch?v=86BiDWXyuwA)
 
